@@ -1,0 +1,27 @@
+body{
+    background-color:brown ;
+    color:antiquewhite;
+    
+}
+h1{
+    text-shadow: black 10px 15px 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1:hover{
+    text-shadow: black 5px 10px 4px;
+}
+label{
+    font-weight:bold;
+    font-size:  190%;
+}
+#submitBtn{
+    margin-top: 40px;
+}
+
+#tempLable{
+     
+    color: black;
+ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+}
